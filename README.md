@@ -6,4 +6,4 @@
 * Slider
 
 ### More info
-*
+* Link
